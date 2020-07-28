@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.05.04 20:39:44.178.pas,C:\Users\OXY\Documents\RAD Studio\Projects\Unit1.pas=G:\Disk_D\CODING\Delphi_App\PixelCounter\Unit1.pas</Transaction>
+    <Transaction>2016.05.04 20:39:44.178.dfm,C:\Users\OXY\Documents\RAD Studio\Projects\Unit1.dfm=G:\Disk_D\CODING\Delphi_App\PixelCounter\Unit1.dfm</Transaction>
+    <Transaction>2016.05.04 20:39:48.296.dproj,C:\Users\OXY\Documents\RAD Studio\Projects\Project1.dproj=G:\Disk_D\CODING\Delphi_App\PixelCounter\PixelCounter.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
